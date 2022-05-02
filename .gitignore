@@ -18,11 +18,11 @@ public class HelloWorld {
         
         if(media>5)
         {
-            System.out.print(voce foi aprovado);
+            System.out.print("__voce foi aprovado");
         }
         else 
         {
-        System.out.print(voce foi reprovado);
+        System.out.print("__voce foi reprovado");
         }
     }  
 }
